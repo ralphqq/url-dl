@@ -1,0 +1,10 @@
+*.pyc
+*.json
+*.csv
+*.log
+__pycache__
+url_dl.egg-info
+downloads/*
+
+# exceptions
+!downloads/.gitkeep
